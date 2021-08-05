@@ -17,5 +17,5 @@ hello Git hello zf!
 hello Git hello zf!
 hello Git hello zf!
 hello Git hello zf!
-hello Git hello zf! master test
-hello Git hello zf!
+hello Git hello zf!   master test
+hello Git hello zf!   hot-fix test
